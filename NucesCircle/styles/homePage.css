@@ -1,0 +1,22 @@
+#main-qoute
+{
+    font-size: 72px;
+    font-family: serif;
+    color: aliceblue;
+}
+
+#sub-qoute
+{
+    color: aliceblue;
+    font-family: serif;
+    font-size: 30px;
+}
+
+#main-box
+{
+    padding-bottom: 40px;
+    padding-top: 40px;
+    background-color: rgba(0, 0, 0, 0.8);
+    
+    border-radius: 10px;
+}

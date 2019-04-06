@@ -1,0 +1,73 @@
+#dp
+{
+    margin: auto;
+    background-color: aliceblue;
+    padding: 5px;
+}
+
+#info_case
+{
+    position: relative;
+    top: -70px;
+}
+
+body
+{
+    color: aliceblue;
+}
+
+.show_case
+{
+    background-color:black;
+    
+    opacity: 0.7;
+    
+    border-radius: 5px;
+}
+
+.title-name
+{
+    background-color:black;
+    
+    opacity: 0.7;
+    
+    border-radius: 5px;
+}
+
+
+.modal
+{
+    color: aliceblue;
+}
+
+
+a
+{
+    color: aliceblue;
+}
+
+.modal-content
+{
+    background-color: black;
+    opacity: 0.8;
+}
+
+
+
+#newsFeedContainer
+{
+    background-color:black;
+    opacity: 0.7;
+    border-radius: 5px;
+    height: 100vh;
+    overflow-y: auto;
+    margin-top: 10px;
+    /*position: relative;*/
+    /*top: -50px;*/
+}
+
+.post
+{
+    padding: 10px 40px 10px 40px;
+}
+
